@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Maitê 👋
 
-<!--
-**maiteramos/maiteramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Programmer with ~6 years of professional experience.
+Most of my career has been focused on Unity, and I'm currently transitioning
+to Unreal Engine C++ with a strong focus on gameplay systems and architecture.
 
-Here are some ideas to get you started:
+### 🔧 Current Focus
+- Unreal Engine C++
+- Gameplay systems & state machines
+- Runtime polymorphism and data-driven design
+- Debug-first development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Selected Work
+- Polymorphic Gameplay Systems (Unreal Engine C++) — *in progress*
+
+Most professional work was developed under NDA.  
+Public-facing descriptions of shipped projects and my role in each of them are available on my Behance profile.
+
+### 🧠 Technical Interests
+- Gameplay architecture
+- Clean C++ design
+- Extensible systems
+- Debugging and tooling
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/maite-ramos/
+- Email: maitesouza.r@gmail.com
+- Behance (selected shipped projects): https://www.behance.net/maitesouza
+
